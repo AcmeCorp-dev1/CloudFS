@@ -5,7 +5,7 @@ The **CloudFS** library is a collection of .NET assemblies as gateways to variou
 [![Release](https://img.shields.io/github/tag/viciousviper/CloudFS.svg)](https://github.com/viciousviper/CloudFS/releases)
 [![Version](https://img.shields.io/nuget/v/CloudFS.svg)](https://www.nuget.org/packages/CloudFS)
 [![NuGet downloads](https://img.shields.io/nuget/dt/CloudFS.svg)](https://www.nuget.org/packages/CloudFS)
-[![NuGet downloads (signed)](https://img.shields.io/nuget/dt/CloudFS-Signed.svg)](https://www.nuget.org/packages/CloudFS-Signed)
+[![NuGet downloads (signed)](https://img.shields.io/nuget/dt/CloudFS-Signed.svg)](https://www.nuget.org/packages/CloudFS-Signed) 
 
 | Branch  | Build status | Code coverage | Code analysis | Quality gate |
 | :------ | :----------: | :-----------: | :-----------: | :----------: |
